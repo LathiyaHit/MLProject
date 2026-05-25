@@ -27,3 +27,6 @@ setup(
 ) ## Setup function is used to define the package and its dependencies. It takes several arguments such as name, version, author, author_email, packages, and install_requires. The install_requires argument is used to specify the dependencies of the package, which are read from the requirements.txt file using the get_requirements function.
 
 
+## setup.py main aim is to create a package for the project and define its dependencies. 
+## It uses the setuptools library to achieve this. The find_packages function is used to automatically find all the packages in the project,
+## and the install_requires argument is used to specify the dependencies of the package, which are read from the requirements.txt file using the get_requirements function.

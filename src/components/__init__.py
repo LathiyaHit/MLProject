@@ -1,0 +1,1 @@
+## __init__.py is created to make the components directory a package.And it can be import and export to some other file location. It is an empty file and does not contain any code. It is used to indicate that the directory is a package and can be imported as a module.
