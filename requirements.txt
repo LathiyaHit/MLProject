@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 dill
+Flask
 #-e . ## This is map to setup.py and indicates that the package in the current directory should be built and installed. It allows you to install the package in editable mode, which means that any changes made to the source code will be reflected immediately without needing to reinstall the package.
