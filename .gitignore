@@ -219,4 +219,6 @@ __marimo__/
 
 .DS_Store
 
-.artifacts
+.artifacts/
+
+.catboost_info/
